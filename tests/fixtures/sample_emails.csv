@@ -1,0 +1,6 @@
+Email Subject,Email Text,Email Type,Sender
+Team lunch next Friday,Let me know if you can join us.,ham,colleague@company.com
+Please review the project notes,The notes are attached for review.,legitimate,lead@company.com
+Urgent verify your password now,Login immediately to avoid suspension.,spam,alert@unknown.com
+Your account is suspended click http://bad.example,Send your credentials to restore access.,phishing,support@unknown.com
+
